@@ -21,6 +21,6 @@ There are many classical and renowned algorithms in programming. Let me list som
 ······
 
 It involves so many important algorithms in training us how to program and communicate with the computer.
-These samples will surely be a good study resource in learning C++ later. And here is [a link]{https://github.com/TheAlgorithms/C-Plus-Plus} towards that repository.
+These samples will surely be a good study resource in learning C++ later. And here is [a link](https://github.com/TheAlgorithms/C-Plus-Plus) towards that repository.
 
 

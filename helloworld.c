@@ -2,7 +2,7 @@
 int main(void) {
     char ch;
     float dog;
-    int hel=113;
+    int hel=112;
     printf("please enter a number:___\b\b\b");
     scanf("%c",&ch);
     printf("%c is %d",ch,hel);

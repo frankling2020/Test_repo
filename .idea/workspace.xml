@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3436fd8-fe01-4d11-8230-c8704c9e5b04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hello/hello.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.fdb_latexmk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/hello.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.c" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d4bry10p8Ykg7zuY1yaqvMzD48" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3436fd8-fe01-4d11-8230-c8704c9e5b04" name="Default Changelist" comment="" />
+      <created>1591687514325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591687514325</updated>
+      <workItem from="1591687515813" duration="24000" />
+      <workItem from="1591687552269" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="192" key="FileChooserDialogImpl" timestamp="1591687572968">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="192" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1591687572968" />
+  </component>
+</project>

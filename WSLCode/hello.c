@@ -2,15 +2,23 @@
 //gcc myBest.c -o myBest.out -std=c11 -Wall -O3
 
 #include <stdio.h>
-#include <math.h>
-#define COURSE "VG101"
-#define NAME "Frank"
 
 int main(){
-    printf("Hello,world! \n");
-    printf("Hello,%s \n",COURSE);
-    printf("I am %s \n",NAME);
-    printf("%s is always the best! First Time! \n",NAME);
-
+    int a, b;
+    a=1; 
+    b =2;
+    int *p, *q, *t;
+    p = &a;
+    q = &b;
+    if (*p>*q){
+        t = p;
+        p = q;
+        q = t;
+    }
+    printf("%d < %d \n", *p, *q);
+    int sum;
+    int *s = &sum;
+    *s= *p + *q;
+    printf("%d\n",*s);
     return 0;
 }

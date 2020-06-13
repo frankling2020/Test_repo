@@ -10,7 +10,7 @@ int main(){
     printf("Hello,world! \n");
     printf("Hello,%s \n",COURSE);
     printf("I am %s \n",NAME);
-    printf("%s is always the best! First\n",NAME);
+    printf("%s is always the best! First Time is to get back \n",NAME);
 
     return 0;
 }
